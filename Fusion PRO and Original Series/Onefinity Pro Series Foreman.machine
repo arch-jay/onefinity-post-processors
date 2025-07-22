@@ -11,9 +11,9 @@
 
   <machining additive="no" inspection="no" jet="yes" milling="yes" turning="yes"/>
 
-  <dimensions depth="1482.344mm" height="469.9mm" weight="100kg" width="1558.925mm"/>
+  <dimensions depth="1482.344mm" height="0mm" weight="100kg" width="1558.925mm"/>
 
-  <capacities depth="1220mm" height="133.35mm" weight="0kg" width="1220mm"/>
+  <capacities depth="1220mm" height="0mm" weight="0kg" width="1220mm"/>
 
   <png128></png128>
 
